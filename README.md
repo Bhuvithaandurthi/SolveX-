@@ -167,8 +167,10 @@ Student refreshes → Certificate appears instantly ✅
 ### Auth Flow
 | Splash Screen | Role Selection | Login |
 |:---:|:---:|:---:|
-| <img src="screenshots/splash.jpeg" width="200"/> | <img src="screenshots/roleselect.jpeg" width="200"/> |
- <img src="screenshots/Know about SolveX.jpeg" width="200"/> | <img src="screenshots/Know about Solvex.jpeg" width="200"/> | <img src="screenshots/login.jpeg" width="200"/> |
+| <img src="screenshots/splash.jpeg" width="200"/> | <img src="screenshots/roleselect.jpeg" width="200"/> |  | <img src="screenshots/login.jpeg" width="200"/> |
+| Know about SolveX | 
+|:---:|:---:|:---:|
+ <img src="screenshots/Know about SolveX.jpeg" width="200"/> | <img src="screenshots/Know about Solvex.jpeg" width="200"/> |
 
 ### Student View
 | Challenge List | Challenge Detail | Leaderboard |
@@ -176,7 +178,7 @@ Student refreshes → Certificate appears instantly ✅
 |  <img src="screenshots/Dashboard std.jpeg" width="200"/>  | <img src="screenshots/challenge_detail.jpeg" width="200"/> | <img src="screenshots/submissions.jpeg" width="200"/> | <img src="screenshots/leaderboard.jpeg" width="200"/> | 
 
 ### Startup View
-| Dashboard | View Submissions | Verification |
+| Dashboard | Post Challenge | Verification |
 |:---:|:---:|:---:|
 | <img src="screenshots/dashboard.jpeg" width="200"/> |  <img src="screenshots/challenges.jpeg" width="200"/> | <img src="screenshots/startup profile.jpeg" width="200"/> | <img src="screenshots/verification.jpeg" width="200"/> |
 
