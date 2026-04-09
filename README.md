@@ -167,10 +167,10 @@ Student refreshes → Certificate appears instantly ✅
 ### Auth Flow
 | Splash Screen | Role Selection | Login |
 |:---:|:---:|:---:|
-| <img src="screenshots/splash.jpeg" width="200"/> | <img src="screenshots/roleselect.jpeg" width="200"/> |  | <img src="screenshots/login.jpeg" width="200"/> |
+| <img src="screenshots/splash.jpeg" width="200"/> | <img src="screenshots/roleselect.jpeg" width="200"/> |   <img src="screenshots/login.jpeg" width="200"/> |
 | Know about SolveX | 
 |:---:|:---:|:---:|
- <img src="screenshots/Know about SolveX.jpeg" width="200"/> | <img src="screenshots/Know about Solvex.jpeg" width="200"/> |
+| <img src="screenshots/Know about SolveX.jpeg" width="200"/> | <img src="screenshots/Know about Solvex.jpeg" width="200"/> |
 
 ### Student View
 | Challenge List | Challenge Detail | Leaderboard |
